@@ -3,4 +3,4 @@ This Repo is Created for Learning HTML
 </br>
 Author - Subham Choudhary 
 </br>
-College - RTCIT
+College - RTC institute of Technology(RTCIT)
